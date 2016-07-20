@@ -4,12 +4,6 @@ title: Описание
 permalink: /about/
 ---
 
-Привет, Мир!
+### Говоря о себе, прежде всего хотелось бы сказать "Привет, Мир!"
 
-### Больше информации
-
-Говоря о себе, прежде всего хотелось бы сказать "Привет, Мир!"
-
-### Связаться со мной можно по 
-
-[vitaliy.sklyarov@gmail.com](mailto:vitaliy.sklyarov@gmail.com)
+Связаться со мной можно через e-mail: [vitaliy.sklyarov@gmail.com](mailto:vitaliy.sklyarov@gmail.com)
