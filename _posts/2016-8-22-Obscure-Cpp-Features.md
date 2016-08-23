@@ -4,6 +4,7 @@ title: Малоосвещённые особенности C++
 ---
 
 Источник: [Obscure C++ Features](http://madebyevan.com/obscure-cpp-features)
+На github: [Перейти](https://github.com/vitalissius/vitalissius.github.io/blob/master/_posts/2016-8-22-Obscure-Cpp-Features.md)
 
 
 
