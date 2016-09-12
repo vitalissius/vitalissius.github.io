@@ -3,7 +3,9 @@ layout: page
 title: Алгоритм А* для новичков
 ---
 
-[Источник](http://www.policyalmanac.org/games/aStarTutorial_rus.htm)
+Источник: [перейти](http://www.policyalmanac.org/games/aStarTutorial_rus.htm)
+
+На GitHub: [перейти](https://github.com/vitalissius/vitalissius.github.io/blob/master/_posts/2016-9-12-A-Star-Pathfinding-for-Beginners.md)
 
 Представим, что нам необходимо попасть из точки A в точку B. Прямой путь между этими двумя точками разделён стеной, как показано на рисунке 1.
 
