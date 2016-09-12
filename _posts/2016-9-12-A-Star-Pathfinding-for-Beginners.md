@@ -3,6 +3,8 @@ layout: page
 title: Алгоритм А* для новичков
 ---
 
+[Источник](http://www.policyalmanac.org/games/aStarTutorial_rus.htm)
+
 Представим, что нам необходимо попасть из точки A в точку B. Прямой путь между этими двумя точками разделён стеной, как показано на рисунке 1.
 
 ![Рисунок 1](https://raw.githubusercontent.com/vitalissius/vitalissius.github.io/master/images/astar/astarimag01.PNG)
